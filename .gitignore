@@ -1,3 +1,7 @@
 /substack_md_files
 config.py
 setup.py
+
+venv
+__pycache__
+config.py
